@@ -1,0 +1,8 @@
+{
+  "name": "random_number_lib",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "author": "Kita",
+  "license": "MIT"
+}
