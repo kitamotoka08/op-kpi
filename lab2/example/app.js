@@ -1,5 +1,5 @@
-import { randomNumberGenerator, consumeWithTimeout } from "../src/index.js";
+import { randomNumberGenerator, consumeWithTimeout } from 'random_number_lib';
 
 const generator = randomNumberGenerator();
 
-consumeWithTimeout(generator, 3);
+consumeWithTimeout(generator, 3);   
