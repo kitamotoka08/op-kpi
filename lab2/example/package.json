@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "random_number_lib": "file:../lib"
+  }
+}
